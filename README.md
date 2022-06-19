@@ -1,1 +1,2 @@
-This repository contains random codes I wrote to practise the concepts I am learing. 
+# Alien Invasion Game
+A simple 2D game where you can control a spaceship using right and left arrows to kill oncoming alien ships. 
